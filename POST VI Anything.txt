@@ -1,0 +1,26 @@
+{
+    "args": {
+        "course": "QA",
+        "group": "QA-22",
+        "name": "Мария",
+        "surname": "Бугорская"
+    },
+    "data": " {\r\n        \"course\": \"QA\",\r\n        \"group\": \"QA-22\",\r\n        \"name\": \"Мария\",\r\n        \"surname\": \"Бугорская\"\r\n    },",
+    "files": {},
+    "form": {},
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Cache-Control": "no-cache",
+        "Content-Length": "134",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "Postman-Token": "e625fefb-0039-45f5-8f6b-ed06108e19d9",
+        "User-Agent": "PostmanRuntime/7.29.2",
+        "X-Amzn-Trace-Id": "Root=1-62f15af3-42e6b3760daf3e5e09962f66"
+    },
+    "json": null,
+    "method": "POST",
+    "origin": "54.86.50.139",
+    "url": "http://httpbin.org/anything?name=Мария&surname=Бугорская&course=QA&group=QA-22"
+}
